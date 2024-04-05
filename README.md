@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+#### I have managed to collect the past ISSCC resources and make it available to all through this page. Some year's files are missing, in case you have it and you wish to contribute, please do not hesitate to contact me via email 📧: nishan.chettri01@universitadipavia.it
+##### P.S. These documents are shared for educational purposes only. If the respective authors or the organizations intends to take it down, I would not have any problems in doing so. Please contact me via email above.😊
 <!--
 **nishanchettri/nishanchettri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -26,6 +27,7 @@ Here are some ideas to get you started:
 - Power management basics
 
 -->
+
 ## ISSCC Courses
 | Title                                               | Year  | Instructor | Affiliation  | Type |
 |-------------------------------------------------------|-------|----------|-------|----------|
