@@ -129,6 +129,7 @@ Here are some ideas to get you started:
 | [56 Gb/s Analog based NRZ Electrical Transceiver](https://www.nishanchettri.com/isscc-slides/2016%20VLSI/SC4.pdf)  | 2016  | Hisakatsu Yamaguchi| Fujitsu  | Short Course|
 | [Silicon Photonic Transceivers for Short-Reach Optical Interconnects](https://www.nishanchettri.com/isscc-slides/2016%20VLSI/SC5.pdf)  | 2016  | Joris Van Campenhout| IMEC  | Short Course|
 | [Integrated Electronic-Photonic Communication Circuits](https://www.nishanchettri.com/isscc-slides/2016%20VLSI/SC6.pdf)  | 2016  | Vladimir Stojanović| University of California, Berkeley  | Short Course|i
-| [Energy-efficient Processors for Deep Learning](https://www.nishanchettri.com/isscc-slides/2017%20ISSCC/TUTORIALS/T4.pdf)  | 2017  | Marian Verhelst |KU Leuven | Tutorial|
+| [Energy-efficient Processors for Deep Learning](https://www.nishanchettri.com/isscc-slides/2017%20ISSCC/T4.pdf)  | 2017  | Marian Verhelst |KU Leuven | Tutorial|
+| [Design Trade-Offs in Digital Intensive PLL](https://www.nishanchettri.com/isscc-slides/2017%20ISSCC/T7.pdf)  | 2017  | Ping-Ying Wang|CMOS-Crystal, Taiwan| Tutorial|
 
 Feel free to connect and discuss more about Analog & Mixed-Signal design!
