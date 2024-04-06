@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 -->
 
-## ISSCC and some VLSISymp Courses
+## ISSCC Courses
 | Title                                               | Year  | Instructor | Affiliation  | Type |
 |-------------------------------------------------------|-------|----------|-------|----------|
 | [Fundamentals of Active Mixers](https://www.nishanchettri.com/isscc-slides/2000%20ISSCC/SC1.pdf)  | 2000  | Barrie Gilbert| Analog Devices  | Short Course|
