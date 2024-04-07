@@ -149,7 +149,6 @@ Here are some ideas to get you started:
 | [Scalable mm-Wave Phased Arrays for Imaging and 5G Communicaitons](https://www.nishanchettri.com/isscc-slides/2018%20ISSCC/SHORT%20COURSE/SC2.pdf)  | 2019 | Bodhisatwa Sadhu | IBM| Short Course |
 | [Challenges and Architecture for Large-scale Next-generation Phased Arrays and 5G Systems](https://www.nishanchettri.com/isscc-slides/2018%20ISSCC/SHORT%20COURSE/SC3.pdf)  | 2019 | Shahriar Shahramian | Nokia - Bell Labs| Short Course |
 | [Emerging Topics in Phased Arrays and the Path to THz](https://www.nishanchettri.com/isscc-slides/2018%20ISSCC/SHORT%20COURSE/SC4.pdf)  | 2019 | Ehsan Afshari | University of Michigan| Short Course |
-
 | [Fundamentals of Integrated Transformers: From Principles to Applications](https://www.nishanchettri.com/isscc-slides/2020%20ISSCC/TUTORIALS/T1Visuals.pdf)  | 2020  | Andrea Bevilacqua | University of Padova | Tutorial |
 | [Analog Building Blocks of DC-DC Converters](https://www.nishanchettri.com/isscc-slides/2020%20ISSCC/TUTORIALS/T2Visuals.pdf)  | 2020  | Bernard Wicht | Leibniz University Hannover | Tutorial |
 | [Interface Circuits for Wearable and Implantable Sensing Systems](https://www.nishanchettri.com/isscc-slides/2020%20ISSCC/TUTORIALS/T3Visuals.pdf)  | 2020  | Patrick Mercier | University of California, San Diego | Tutorial |
@@ -160,7 +159,10 @@ Here are some ideas to get you started:
 | [Capacitive Sensor Interfaces](https://www.nishanchettri.com/isscc-slides/2020%20ISSCC/TUTORIALS/T8Visuals.pdf)  | 2020  | Man-Kay Law | University of Macau | Tutorial |
 | [Fundamentals of wireless transceiver circuits and architectures (from 2G to 5G)](https://www.nishanchettri.com/isscc-slides/2020%20ISSCC/TUTORIALS/T9Visuals.pdf)  | 2020  | Venumadhav Bhagavatula | Samsung | Tutorial |
 | [How to Understand and Evaluate Deep Learning Processors](https://www.nishanchettri.com/isscc-slides/2020%20ISSCC/TUTORIALS/T10Visuals.pdf)  | 2020  | Vivienne Sze | Massachusetts Institute of Technology | Tutorial |
-
+| [Introduction to PLLs: Phase Noise, Modeling, and Key Wireless Design Considerations](https://www.nishanchettri.com/isscc-slides/2021%20ISSCC/SHORT%20COURSE/ISSCC2021-SC1.pdf)  | 2021  | Behzad Razavi | University of California, LA| Short Course|
+| [PLL Architectures, Tradeoffs, and Key Application Considerations](https://www.nishanchettri.com/isscc-slides/2021%20ISSCC/SHORT%20COURSE/ISSCC2021-SC2.pdf)  | 2021  | Woogeun Rhee | Tsinghua University| Short Course|
+| [Clocking, Clock Distribution, and Clock Management in Wireline/Wireless Subsystems](https://www.nishanchettri.com/isscc-slides/2021%20ISSCC/SHORT%20COURSE/ISSCC2021-SC3.pdf)  | 2021  | Mozhgan Mansuri | Intel | Short Course|
+| [Processor Clock Generation, Distribution, and Clock Sensor/Management Loops](https://www.nishanchettri.com/isscc-slides/2021%20ISSCC/SHORT%20COURSE/ISSCC2021-SC4.pdf)  | 2021  | Phillip Restle | IBM | Short Course|
 
 
 
