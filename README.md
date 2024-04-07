@@ -163,6 +163,19 @@ Here are some ideas to get you started:
 | [PLL Architectures, Tradeoffs, and Key Application Considerations](https://www.nishanchettri.com/isscc-slides/2021%20ISSCC/SHORT%20COURSE/ISSCC2021-SC2.pdf)  | 2021  | Woogeun Rhee | Tsinghua University| Short Course|
 | [Clocking, Clock Distribution, and Clock Management in Wireline/Wireless Subsystems](https://www.nishanchettri.com/isscc-slides/2021%20ISSCC/SHORT%20COURSE/ISSCC2021-SC3.pdf)  | 2021  | Mozhgan Mansuri | Intel | Short Course|
 | [Processor Clock Generation, Distribution, and Clock Sensor/Management Loops](https://www.nishanchettri.com/isscc-slides/2021%20ISSCC/SHORT%20COURSE/ISSCC2021-SC4.pdf)  | 2021  | Phillip Restle | IBM | Short Course|
+| [Fundamentals of RF and mm-Wave Power-Amplifier Designs](https://www.nishanchettri.com/isscc-slides/2021%20ISSCC/TUTORIALS/ISSCC2021-T1.pdf)  | 2021  | Hua Wang | Georgia Institute of Technology | Tutorial |
+| [Fundamentals of Memory Subsystem Design for HPC and AI](https://www.nishanchettri.com/isscc-slides/2021%20ISSCC/TUTORIALS/ISSCC2021-T2.pdf)  | 2021  | Kyu-Hyoun (KH) Kim | IBM | Tutorial |
+| [Silicon Photonics – from Basics to ASICs](https://www.nishanchettri.com/isscc-slides/2021%20ISSCC/TUTORIALS/ISSCC2021-T3.pdf)  | 2021  | Sudip Shekhar | University of British Columbia | Tutorial |
+| [Measuring and Evaluating the Security Level of Circuits](https://www.nishanchettri.com/isscc-slides/2021%20ISSCC/TUTORIALS/ISSCC2021-T4.pdf)  | 2021  | Ingrid Verbauwhede | KU Leuven | Tutorial |
+| [Calibration Techniques in ADCs](https://www.nishanchettri.com/isscc-slides/2021%20ISSCC/TUTORIALS/ISSCC2021-T5.pdf)  | 2021  | Ahmed Ali | Analog Devices | Tutorial |
+| [Basics of DAC-Based Wireline Transmitters](https://www.nishanchettri.com/isscc-slides/2021%20ISSCC/TUTORIALS/ISSCC2021-T6.pdf)  | 2021  | Friedel Gerfers | Technische Universität Berlin | Tutorial |
+| [Basic Design Approaches to Accelerating Deep Neural Networks](https://www.nishanchettri.com/isscc-slides/2021%20ISSCC/TUTORIALS/ISSCC2021-T7.pdf)  | 2021  | Rangharajan Venkatesan | NVIDIA | Tutorial |
+| [On-Chip Interconnects: Basic Concepts, Designs, & Future Opportunities](https://www.nishanchettri.com/isscc-slides/2021%20ISSCC/TUTORIALS/ISSCC2021-T8.pdf)  | 2021  | Yvain Thonnart | Laboratoire d'Intégration de Systèmes et des Technologies (CEA-List) | Tutorial |
+| [Designing Amplifiers for Stability](https://www.nishanchettri.com/isscc-slides/2021%20ISSCC/TUTORIALS/ISSCC2021-T9.pdf)  | 2021  | Viola Schaffer | Texas Instruments | Tutorial |
+| [Fundamentals of Fully Integrated Voltage Regulators](https://www.nishanchettri.com/isscc-slides/2021%20ISSCC/TUTORIALS/ISSCC2021-T10.pdf)  | 2021  | Yan Lu | University of Macau | Tutorial |
+| [Ultra-Low-Power Wireless-Receiver Design](https://www.nishanchettri.com/isscc-slides/2021%20ISSCC/TUTORIALS/ISSCC2021-T11.pdf)  | 2021  | David D. Wentzloff | University of Michigan | Tutorial |
+| [Brain Computer Interfaces: Fundamentals to Future Technologies](https://www.nishanchettri.com/isscc-slides/2021%20ISSCC/TUTORIALS/ISSCC2021-T12.pdf)  | 2021  | Rikky Muller | University of California, Berkeley | Tutorial |
+
 
 
 
