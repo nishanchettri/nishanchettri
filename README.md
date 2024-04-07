@@ -175,6 +175,15 @@ Here are some ideas to get you started:
 | [Fundamentals of Fully Integrated Voltage Regulators](https://www.nishanchettri.com/isscc-slides/2021%20ISSCC/TUTORIALS/ISSCC2021-T10.pdf)  | 2021  | Yan Lu | University of Macau | Tutorial |
 | [Ultra-Low-Power Wireless-Receiver Design](https://www.nishanchettri.com/isscc-slides/2021%20ISSCC/TUTORIALS/ISSCC2021-T11.pdf)  | 2021  | David D. Wentzloff | University of Michigan | Tutorial |
 | [Brain Computer Interfaces: Fundamentals to Future Technologies](https://www.nishanchettri.com/isscc-slides/2021%20ISSCC/TUTORIALS/ISSCC2021-T12.pdf)  | 2021  | Rikky Muller | University of California, Berkeley | Tutorial |
+| [Introduction to ADCs/DACs: Metrics, Topologies, Trade Space, and Applications](https://www.nishanchettri.com/isscc-slides/2022%20ISSCC/SHORT%20COURSE/SC1.pdf)  | 2022  | Boris Murmann | Stanford University | Short Course |
+| [Ultra High Data Rate ADCs and DACs: Architectures and Implementations](https://www.nishanchettri.com/isscc-slides/2022%20ISSCC/SHORT%20COURSE/SC2.pdf)  | 2022  | Gabriele Manganaro | Mediatek Inc. | Short Course |
+| [High Precision and Low Power ADCs](https://www.nishanchettri.com/isscc-slides/2022%20ISSCC/SHORT%20COURSE/SC3.pdf)  | 2022  | Pieter Harpe | Eindhoven University of Technology | Short Course |
+| [Emerging Data Converter Concepts](https://www.nishanchettri.com/isscc-slides/2022%20ISSCC/SHORT%20COURSE/SC4.pdf)  | 2022  | Nan Sun | Tsinghua University | Short Course |
+| [Design of Ultra-low-power Bandgap Reference Circuits](https://www.nishanchettri.com/isscc-slides/2023%20CICC/2023_CICC1.pdf)  | 2023  | Jae-Yoon Sim | Pohang University of Science and Technology | Short Course |
+| [Recent Advancements in Integrated LDO Regulators](https://www.nishanchettri.com/isscc-slides/2023%20CICC/2023_CICC2.pdf)  | 2023  | Yan Lu | University of Macau, Macao, China | Short Course |
+| [Recent Developments in RC Frequency References](https://www.nishanchettri.com/isscc-slides/2023%20CICC/2023_CICC3.pdf)  | 2023  | Kofi Makinwa | TU Delft | Short Course |
+| [Sub-μW Non-Bandgap Voltage References: Review & Recent Progress](https://www.nishanchettri.com/isscc-slides/2023%20CICC/2023_CICC4.pdf)  | 2023  | Inhee Lee, Abhishek Pullela et al. | University of Pittsburgh, International Institute of Information Technology, India | Short Course |
+
 
 
 
