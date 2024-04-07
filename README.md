@@ -195,7 +195,16 @@ Here are some ideas to get you started:
 | [The Art of mm-Wave Design & Layout](https://www.nishanchettri.com/isscc-slides/2023%20ISSCC/TUTORIALS/T10.pdf)  | 2023  | Shahriar Shahramian | Nokia – Bell Labs | Tutorial |
 | [Digital Equalization and Timing Recovery Techniques for ADC-DSP-based Highspeed Links](https://www.nishanchettri.com/isscc-slides/2023%20ISSCC/TUTORIALS/T11.pdf)  | 2023  | Masum Hossain | Carleton University | Tutorial |
 | [Specializing Processors for ML](https://www.nishanchettri.com/isscc-slides/2023%20ISSCC/TUTORIALS/T12.pdf)  | 2023  | Luca Benini | ETH, Zurich | Tutorial |
-
+| [Process-Scalable Low-Power Amplifiers](https://www.nishanchettri.com/isscc-slides/2024%20ISSCC/TUTORIALS/T1.pdf)  | 2024  | Minkyu Je | Korea Advanced Institute of Science & Technology (KAIST) | Tutorial |
+| [Fundamentals of Digital and Digitally-Assisted Linear Voltage Regulators](https://www.nishanchettri.com/isscc-slides/2024%20ISSCC/TUTORIALS/T2.pdf)  | 2024  | Arijit Raychowdhury | Georgia Institute of Technology | Tutorial |
+| [Fundamentals of Circuit Design for 2.5D/3D Integration](https://www.nishanchettri.com/isscc-slides/2024%20ISSCC/TUTORIALS/T3.pdf)  | 2024  | Kenny Cheng-Hsiang Hsieh | TSMC | Tutorial |
+| [Fundamentals of Power Management System Constraints and Solutions](https://www.nishanchettri.com/isscc-slides/2024%20ISSCC/TUTORIALS/T4.pdf)  | 2024  | Frank Praemassing | Infineon Technologies | Tutorial |
+| [Calibration Techniques in PLLs](https://www.nishanchettri.com/isscc-slides/2024%20ISSCC/TUTORIALS/T5.pdf)  | 2024  | Salvatore Levantino | Politecnico di Milano | Tutorial |
+| [Recent Advances in Circuit-techniques for Resilience to Side-Channel Attacks](https://www.nishanchettri.com/isscc-slides/2024%20ISSCC/TUTORIALS/T6.pdf)  | 2024  | Shreyas Sen | Purdue University | Tutorial |
+| [Fundamentals of Continuous-Time ADCs](https://www.nishanchettri.com/isscc-slides/2024%20ISSCC/TUTORIALS/T7.pdf)  | 2024  | Shanthi Pavan | Indian Institute of Technology, Madras | Tutorial |
+| [3D Flash Memory from Technology to the System: past, present and future developments](https://www.nishanchettri.com/isscc-slides/2024%20ISSCC/TUTORIALS/T8.pdf)  | 2024  | Violante Moschiano | Intel | Tutorial |
+| [Domain-Specific Accelerators: From Hardware to System](https://www.nishanchettri.com/isscc-slides/2024%20ISSCC/TUTORIALS/T9.pdf)  | 2024  | Sophia Shao | University of California, Berkeley | Tutorial |
+| [Fundamentals of Transceivers for Communication and Sensing](https://www.nishanchettri.com/isscc-slides/2024%20ISSCC/TUTORIALS/T10.pdf)  | 2024  | Giuseppe Gramegna | IMEC | Tutorial |
 
 
 
