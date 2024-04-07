@@ -145,6 +145,10 @@ Here are some ideas to get you started:
 | [Fundamentals of Switched-Mode Power Converter Design](https://www.nishanchettri.com/isscc-slides/2018%20ISSCC/TUTORIALS/T8/T8Visuals.pdf) [`(transcript)`](https://www.nishanchettri.com/isscc-slides/2018%20ISSCC/TUTORIALS/T8/T8Transcription.txt) | 2018 | Hoi Lee | The University of Texas, Dallas | Tutorial |
 | [Digital RF Transmitters](https://www.nishanchettri.com/isscc-slides/2018%20ISSCC/TUTORIALS/T9/T9Visuals.pdf) [`(transcript)`](https://www.nishanchettri.com/isscc-slides/2018%20ISSCC/TUTORIALS/T9/T9Transcription.txt) | 2018 | Renaldi Winoto | Tectus| Tutorial |
 | [ADC-Based Serial Links: Design and Analysis](https://www.nishanchettri.com/isscc-slides/2018%20ISSCC/TUTORIALS/T10/T10Visuals.pdf) [`(transcript)`](https://www.nishanchettri.com/isscc-slides/2018%20ISSCC/TUTORIALS/T10/T10Transcription.txt) | 2018 | Samuel Palermo | Texas A&M University, TX| Tutorial |
+| [Introduction to Phased-Array Technology from mm-Wave to Optics](https://www.nishanchettri.com/isscc-slides/2018%20ISSCC/SHORT%20COURSE/SC1.pdf)  | 2019 | Hossein Hashemi | University of Southern California, LA| Short Course |
+| [Scalable mm-Wave Phased Arrays for Imaging and 5G Communicaitons](https://www.nishanchettri.com/isscc-slides/2018%20ISSCC/SHORT%20COURSE/SC2.pdf)  | 2019 | Bodhisatwa Sadhu | IBM| Short Course |
+| [Challenges and Architecture for Large-scale Next-generation Phased Arrays and 5G Systems](https://www.nishanchettri.com/isscc-slides/2018%20ISSCC/SHORT%20COURSE/SC3.pdf)  | 2019 | Shahriar Shahramian | Nokia - Bell Labs| Short Course |
+| [Emerging Topics in Phased Arrays and the Path to THz](https://www.nishanchettri.com/isscc-slides/2018%20ISSCC/SHORT%20COURSE/SC4.pdf)  | 2019 | Ehsan Afshari | University of Michigan| Short Course |
 
 
 
