@@ -20,7 +20,7 @@ Here are some materials I've compiled:
 |-------------------------------------------------|------------|---------------|-------------------|----------------------------------------------------------------|
 | [ISSCC 2000 to 2024](https://github.com/nishanchettri/ISSCC-Courses) | April 2024 | Courses Slides | IEEE Conferences | Integrated Circuit Design (Analog, Digital, RF, Mixed Signal, Power) |
 
-## PhD Positions
-🧐 [Pool of PhD opportunities (past and new)](https://github.com/nishanchettri/PhD-positions-electronic-engineering/)
+## PhD Positions 🧐
+👉 [Pool of PhD opportunities (past and new)](https://github.com/nishanchettri/PhD-positions-electronic-engineering/)
 
 
