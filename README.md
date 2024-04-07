@@ -132,4 +132,12 @@ Here are some ideas to get you started:
 | [Energy-efficient Processors for Deep Learning](https://www.nishanchettri.com/isscc-slides/2017%20ISSCC/T4.pdf)  | 2017  | Marian Verhelst |KU Leuven | Tutorial|
 | [Design Trade-Offs in Digital Intensive PLL](https://www.nishanchettri.com/isscc-slides/2017%20ISSCC/T7.pdf)  | 2017  | Ping-Ying Wang|CMOS-Crystal, Taiwan| Tutorial|
 
+| [Introduction to Deep Learning and Inference: A Hardware Perspective](https://www.nishanchettri.com/isscc-slides/2018%20ISSCC/SHORT%20COURSE/SC1Visuals.pdf) [`(transcript)`](https://www.nishanchettri.com/isscc-slides/2018%20ISSCC/SHORT%20COURSE//SC1Transcript.txt) | 2018  | Gu-Yeon Wei | Harvard University | Short Course |
+| [Algorithm and Implementation Co-design for Learning and Inference](https://www.nishanchettri.com/isscc-slides/2018%20ISSCC/SHORT%20COURSE/SC2Visuals.pdf) [`(transcript)`](https://www.nishanchettri.com/isscc-slides/2018%20ISSCC/SHORT%20COURSE//SC2Transcript.txt) | 2018  | Marian Verhelst | KU Leuven | Short Course |
+| [Efficient Edge Solutions for Deep Learning Applications](https://www.nishanchettri.com/isscc-slides/2018%20ISSCC/SHORT%20COURSE/SC3Visuals.pdf) [`(transcript)`](https://www.nishanchettri.com/isscc-slides/2018%20ISSCC/SHORT%20COURSE//SC3Transcript.txt) | 2018  | Vivienne Sze | Massachusetts Institute of Technology | Short Course |
+| [Efficient Alternatives and Extensions to Deep-Learning Solutions](https://www.nishanchettri.com/isscc-slides/2018%20ISSCC/SHORT%20COURSE/SC4Visuals.pdf) [`(transcript)`](https://www.nishanchettri.com/isscc-slides/2018%20ISSCC/SHORT%20COURSE//SC4Transcript.txt) | 2018  | Naveen Verma | Princeton University | Short Course |
+
+
+
+
 Feel free to connect and discuss more about Analog & Mixed-Signal design!
