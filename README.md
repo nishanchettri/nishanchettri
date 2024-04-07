@@ -183,6 +183,18 @@ Here are some ideas to get you started:
 | [Recent Advancements in Integrated LDO Regulators](https://www.nishanchettri.com/isscc-slides/2023%20CICC/2023_CICC2.pdf)  | 2023  | Yan Lu | University of Macau, Macao, China | Short Course |
 | [Recent Developments in RC Frequency References](https://www.nishanchettri.com/isscc-slides/2023%20CICC/2023_CICC3.pdf)  | 2023  | Kofi Makinwa | TU Delft | Short Course |
 | [Sub-μW Non-Bandgap Voltage References: Review & Recent Progress](https://www.nishanchettri.com/isscc-slides/2023%20CICC/2023_CICC4.pdf)  | 2023  | Inhee Lee, Abhishek Pullela et al. | University of Pittsburgh, International Institute of Information Technology, India | Short Course |
+| [Fundamentals of Frequency References](https://www.nishanchettri.com/isscc-slides/2023%20ISSCC/TUTORIALS/T1.pdf)  | 2023  | Danielle Griffith | Texas Instruments | Tutorial |
+| [Bridging RF and Power : An Introduction to Envelope Tracking System and Building Blocks](https://www.nishanchettri.com/isscc-slides/2023%20ISSCC/TUTORIALS/T2.pdf)  | 2023  | Ji-Seon Paek | Pusan National University | Tutorial |
+| [Fundamentals of Data Converters](https://www.nishanchettri.com/isscc-slides/2023%20ISSCC/TUTORIALS/T3.pdf)  | 2023  | Yun Chiu | University of Texas, Dallas | Tutorial |
+| [Automotive System Design](https://www.nishanchettri.com/isscc-slides/2023%20ISSCC/TUTORIALS/T4.pdf)  | 2023  | Sugako Otani | Renesas | Tutorial |
+| [All-digital PLLs From Fundamental Concepts to Future Trends](https://www.nishanchettri.com/isscc-slides/2023%20ISSCC/TUTORIALS/T5.pdf)  | 2023  | Akihide Sai | Toshiba | Tutorial |
+| [Solid-State CMOS LiDAR Sensors](https://www.nishanchettri.com/isscc-slides/2023%20ISSCC/TUTORIALS/T6.pdf)  | 2023  | Seong-Jin Kim | Ulsan National Institute of Science and Technology | Tutorial |
+| [Fundamentals of Ultra-Low Voltage Embedded Memory Design](https://www.nishanchettri.com/isscc-slides/2023%20ISSCC/TUTORIALS/T7.pdf)  | 2023  | Eric Karl | Intel | Tutorial |
+| [Role of Current-Mode Passive Mixers and N-Path Filters in RF Receivers](https://www.nishanchettri.com/isscc-slides/2023%20ISSCC/TUTORIALS/T8.pdf)  | 2023  | Masoud Babaie | TU Delft | Tutorial |
+| [Physical-Layer Security for Latency- and Energy-Constrained Integrated Systems](https://www.nishanchettri.com/isscc-slides/2023%20ISSCC/TUTORIALS/T9.pdf)  | 2023  | Rabia Tugce Yazicigil | Boston University | Tutorial |
+| [The Art of mm-Wave Design & Layout](https://www.nishanchettri.com/isscc-slides/2023%20ISSCC/TUTORIALS/T10.pdf)  | 2023  | Shahriar Shahramian | Nokia – Bell Labs | Tutorial |
+| [Digital Equalization and Timing Recovery Techniques for ADC-DSP-based Highspeed Links](https://www.nishanchettri.com/isscc-slides/2023%20ISSCC/TUTORIALS/T11.pdf)  | 2023  | Masum Hossain | Carleton University | Tutorial |
+| [Specializing Processors for ML](https://www.nishanchettri.com/isscc-slides/2023%20ISSCC/TUTORIALS/T12.pdf)  | 2023  | Luca Benini | ETH, Zurich | Tutorial |
 
 
 
