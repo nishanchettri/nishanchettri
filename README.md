@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 | [Front-End IC Design for Wireless Communications](https://www.nishanchettri.com/isscc-slides/2005%20ISSCC/SC3.pdf)  | 2005  | Ranjit Gharpurey| University of Michigan  | Short Course|
 | [Technology Options for RFIC](https://www.nishanchettri.com/isscc-slides/2005%20ISSCC/SC4.pdf)  | 2005  | S. Simon Wong| Stanford University | Short Course|
 | [Fundamentals of Class D Amplifier Operation & Design](https://www.nishanchettri.com/isscc-slides/2008%20ISSCC/Tutorials/T01_Pres.pdf)  | 2008  | Brett Forejt| Texas Instruments  | Tutorial|
-| [Pipelined A/D Converters: The Basics](https://www.nishanchettri.com/isscc-slides/2008%20ISSCC/Tutorials/T02_Pres.pdf)  | 2008  | Aaron Buchwald| -  | Tutorial|
+| [Pipelined A/D Converters: The Basics](https://www.nishanchettri.com/isscc-slides/2008%20ISSCC/Tutorials/T02_Pres.pdf)  | 2008  | Aaron Buchwald| Mobius Semiconductor | Tutorial|
 | [CMOS Temperature Sensors](https://www.nishanchettri.com/isscc-slides/2008%20ISSCC/Tutorials/T03_Pres.pdf)  | 2008  | Kofi Makinwa and Michiel Pertijs| TU Delft  | Tutorial|
 | [SoC Power-Reduction Techniques](https://www.nishanchettri.com/isscc-slides/2008%20ISSCC/Tutorials/T04_Pres.pdf)  | 2008  | Pascal Urard | STMicroelectronics  | Tutorial|
 | [Digital Phase-Locked Loops](https://www.nishanchettri.com/isscc-slides/2008%20ISSCC/Tutorials/T05_Pres.pdf)  | 2008  | Michael H. Perrott | Massachusetts Institute of Technology|Tutorial|
