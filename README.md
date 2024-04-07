@@ -150,6 +150,18 @@ Here are some ideas to get you started:
 | [Challenges and Architecture for Large-scale Next-generation Phased Arrays and 5G Systems](https://www.nishanchettri.com/isscc-slides/2018%20ISSCC/SHORT%20COURSE/SC3.pdf)  | 2019 | Shahriar Shahramian | Nokia - Bell Labs| Short Course |
 | [Emerging Topics in Phased Arrays and the Path to THz](https://www.nishanchettri.com/isscc-slides/2018%20ISSCC/SHORT%20COURSE/SC4.pdf)  | 2019 | Ehsan Afshari | University of Michigan| Short Course |
 
+| [Fundamentals of Integrated Transformers: From Principles to Applications](https://www.nishanchettri.com/isscc-slides/2020%20ISSCC/TUTORIALS/T1Visuals.pdf)  | 2020  | Andrea Bevilacqua | University of Padova | Tutorial |
+| [Analog Building Blocks of DC-DC Converters](https://www.nishanchettri.com/isscc-slides/2020%20ISSCC/TUTORIALS/T2Visuals.pdf)  | 2020  | Bernard Wicht | Leibniz University Hannover | Tutorial |
+| [Interface Circuits for Wearable and Implantable Sensing Systems](https://www.nishanchettri.com/isscc-slides/2020%20ISSCC/TUTORIALS/T3Visuals.pdf)  | 2020  | Patrick Mercier | University of California, San Diego | Tutorial |
+| [Basics of Nonvolatile Memories: MRAM, RRAM, and PRAM](https://www.nishanchettri.com/isscc-slides/2020%20ISSCC/TUTORIALS/T4Visuals.pdf)  | 2020  | Fatih Hamzaoglu | Intel | Tutorial |
+| [Fundamentals of Time-Interleaved ADCs](https://www.nishanchettri.com/isscc-slides/2020%20ISSCC/TUTORIALS/T5Visuals.pdf)  | 2020  | John P. Keane | Keysight Technologies | Tutorial |
+| [Digital Fractional-N Phase Locked Loop Design](https://www.nishanchettri.com/isscc-slides/2020%20ISSCC/TUTORIALS/T6Visuals.pdf)  | 2020  | Mike Shuo-Wei Chen | University of Southern California | Tutorial |
+| [Basics of Digital Low-Dropout (LDO) Integrated Voltage Regulator](https://www.nishanchettri.com/isscc-slides/2020%20ISSCC/TUTORIALS/T7Visuals.pdf)  | 2020  | Mingoo Seok | Columbia University | Tutorial |
+| [Capacitive Sensor Interfaces](https://www.nishanchettri.com/isscc-slides/2020%20ISSCC/TUTORIALS/T8Visuals.pdf)  | 2020  | Man-Kay Law | University of Macau | Tutorial |
+| [Fundamentals of wireless transceiver circuits and architectures (from 2G to 5G)](https://www.nishanchettri.com/isscc-slides/2020%20ISSCC/TUTORIALS/T9Visuals.pdf)  | 2020  | Venumadhav Bhagavatula | Samsung | Tutorial |
+| [How to Understand and Evaluate Deep Learning Processors](https://www.nishanchettri.com/isscc-slides/2020%20ISSCC/TUTORIALS/T10Visuals.pdf)  | 2020  | Vivienne Sze | Massachusetts Institute of Technology | Tutorial |
+
+
 
 
 
