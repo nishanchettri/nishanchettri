@@ -7,6 +7,23 @@
 ## About Me 💁🏻‍♂️
 I'm Nishan Chettri, a PhD student in [Micro and Nano Electronics](https://phd-mne.unipv.it/index.php?page=Students.php) at the [Integrated Microsystems and Sensors Lab](http://ims2.unipv.it), [University of Pavia, Italy](https://web.unipv.it).
 
+- 🔭 I’m currently working on Readout circuits for Light to Digital Conversion for Photoplethysmography.
+- 🌱 I’m currently learning about Current Mode ADCs.
+- 👯 I’m looking to collaborate on Open source IC design.
+- 💬 Ask me about: Anything related to Electronics and Sports and Food and ..... so on
+
+<!--
+# Namaste, I am Nishan Chettri! 👋
+
+📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/nishanchettri/)
+
+## Study Material
+
+- Analog IC Design Basics
+- ADCs (Analog/Digital Converters)
+- Power management basics
+
+-->
 ## Introduction 💬
 Welcome to my GitHub page! Here, I aim to organize useful materials for those studying or working in the field of Electronic Engineering. Whether you're looking for past ISSCC courses, free courses, basic projects, building block designs, Cadence tutorials, PhD Positions or interview questions, you'll find something here. I update this page on a weekly basis, so stay tuned!
 
