@@ -12,8 +12,6 @@ I'm Nishan Chettri, a PhD student in [Micro and Nano Electronics](https://phd-mn
 - 👯 I’m looking to collaborate on open-source IC design.
 - 💬 Ask me about: Anything related to data converters and analogue IC design.
 
-📫 **How to reach me:**  
-📧 [nishanchettri@gmail.com](mailto:nishanchettri@gmail.com)
 
 
 <!--
