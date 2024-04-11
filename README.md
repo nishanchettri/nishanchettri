@@ -9,13 +9,17 @@ I'm Nishan Chettri, a PhD student in [Micro and Nano Electronics](https://phd-mn
 
 - 🔭 I’m currently working on Readout circuits for Light to Digital Conversion for Photoplethysmography.
 - 🌱 I’m currently learning about Current Mode ADCs.
-- 👯 I’m looking to collaborate on Open source IC design.
-- 💬 Ask me about: Anything related to Electronics and Sports and Food and ..... so on
+- 👯 I’m looking to collaborate on open-source IC design.
+- 💬 Ask me about: Anything related to data converters and analogue IC design.
+
+📫 **How to reach me:**  
+📧 [nishanchettri@gmail.com](mailto:nishanchettri@gmail.com)
+
 
 <!--
 # Namaste, I am Nishan Chettri! 👋
 
-📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/nishanchettri/)
+
 
 ## Study Material
 
