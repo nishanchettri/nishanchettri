@@ -43,4 +43,4 @@ Here are some materials I've compiled:
 ## PhD Positions: Electronic Engineering 🧐
 #### 👉 Pool of PhD opportunities (past and new): [Link to page](https://github.com/nishanchettri/PhD-positions-electronic-engineering/)
 
-
+![](https://komarev.com/ghpvc/?username=nishanchettri&style=for-the-badge)
