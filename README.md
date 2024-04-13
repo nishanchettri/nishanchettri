@@ -39,6 +39,7 @@ Here are some materials I've compiled:
 |-------------------------------------------------|------------|---------------|-------------------|----------------------------------------------------------------|
 | [ISSCC 2000 to 2024](https://github.com/nishanchettri/ISSCC-Courses) | April 2024 | Courses Slides | IEEE Conferences | Integrated Circuit Design (Analog, Digital, RF, Mixed Signal, Power) |
 | [Free Books](http://singlelogin.re) | April 2024 | Website |  A Broke Learner! 😂 | All types of E-books |
+| [Non-technical skills](https://github.com/nishanchettri/non-technical-skills) | April 2024 | Soft-skills and career advice |  Multiple | Career related |
 
 ## PhD Positions: Electronic Engineering 🧐
 #### 👉 Pool of PhD opportunities (past and new): [Link to page](https://github.com/nishanchettri/PhD-positions-electronic-engineering/)
