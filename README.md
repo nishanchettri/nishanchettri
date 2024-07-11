@@ -1,5 +1,5 @@
 
-
+<!--
 
 
 # Hi There! 👋
@@ -14,7 +14,7 @@ I'm Nishan Chettri, a PhD student in [Micro and Nano Electronics](https://phd-mn
 
 
 
-<!--
+
 # Namaste, I am Nishan Chettri! 👋
 
 
@@ -25,7 +25,7 @@ I'm Nishan Chettri, a PhD student in [Micro and Nano Electronics](https://phd-mn
 - ADCs (Analog/Digital Converters)
 - Power management basics
 
--->
+
 ## Introduction 💬
 Welcome to my GitHub page! Here, I aim to organize useful materials for those studying or working in the field of Electronic Engineering. Whether you're looking for past ISSCC courses, free courses, basic projects, building block designs, Cadence tutorials, PhD Positions or interview questions, you'll find something here. I update this page on a weekly basis, so stay tuned!
 
@@ -45,3 +45,4 @@ Here are some materials I've compiled:
 #### 👉 Pool of PhD opportunities (past and new): [Link to page](https://github.com/nishanchettri/PhD-positions-electronic-engineering/)
 
 ![](https://komarev.com/ghpvc/?username=nishanchettri&style=for-the-badge)
+-->
